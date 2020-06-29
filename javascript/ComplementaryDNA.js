@@ -1,4 +1,6 @@
 /*
+[7 kyu]
+
 Deoxyribonucleic acid (DNA) is a chemical found in the nucleus of cells and carries the "instructions" for the development and functioning of living organisms.
 
 If you want to know more http://en.wikipedia.org/wiki/DNA
