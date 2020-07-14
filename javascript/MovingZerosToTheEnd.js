@@ -3,6 +3,11 @@
  *
  * moveZeros([false,1,0,1,2,0,1,3,"a"]) // returns[false,1,1,2,1,3,"a",0,0]
  * from: https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript
+ * 
+ * Clear Solution: 
+ * var moveZeros = function (arr) {
+ *  return arr.filter(function(x) {return x !== 0}).concat(arr.filter(function(x) {return x === 0;}));
+ *}
  */
 
 var moveZeros = function(arr) {
