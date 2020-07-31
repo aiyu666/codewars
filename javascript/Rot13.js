@@ -21,7 +21,7 @@ function rot13(message) {
         else result.push(word)
     }
     return result.join('')
-} a
+}
 
 console.log(rot13("Test"));
 // console.log(rot13("test"));
